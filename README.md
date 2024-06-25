@@ -16,7 +16,7 @@ Machine Learning for biological data
 
 Diet Formulation & Swine Nutrition
 
-Bioinformatics & Biochemistry
+Bioinformatics 
 
 Statistical Analysis & Experimental Design
 
