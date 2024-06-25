@@ -10,7 +10,7 @@
 
 🔬 Skills:
 
-Data Analysis & Visualization (SQL, R, SAS)
+Data Analysis & Visualization (SQL, R, Python, SAS)
 
 Machine Learning for biological data
 
