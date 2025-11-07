@@ -1,29 +1,21 @@
-👋 Hi, I’m Sudário Roberto Silva Junior
+Hi, I’m Sudário Roberto Silva Junior
 
-👀 I’m interested in swine nutrition and gut microbiome research
+I study how swine nutrition and the gut microbiome affect health, productivity, and energy metabolism. My work combines animal science with data science to better understand how what pigs eat shapes how they perform.
 
-🌱 I’m currently exploring the effects of swine nutrition on health and productivity
+I’m always interested in collaborating on projects that involve bioinformatics, data analysis, or machine learning applied to animal research.
 
-💞️ I’m looking to collaborate on data analysis and bioinformatics projects
 
-📫 How to reach me: ssilvaju@umn.edu
 
-🔬 Skills:
+Skills
+Data analysis and visualization (R, Python, SQL, SAS)
+Diet formulation and swine nutrition
+Bioinformatics and microbiome analysis
+Machine learning for biological data
+Statistical analysis and experimental design
 
-Data Analysis & Visualization (SQL, R, Python, SAS)
+Education
+Ph.D. Student in Animal Science (Swine Nutrition & Microbiome) – University of Minnesota
+M.S. in Animal Science – University of Minnesota
+B.S. in Animal Science – Federal University of Lavras, Brazil
 
-Machine Learning for biological data
-
-Diet Formulation & Swine Nutrition
-
-Bioinformatics 
-
-Statistical Analysis & Experimental Design
-
-📚 Education:
-
-Ph.D. Student in Animal Science with a Data Science minor, University of Minnesota
-
-M.S. in Animal Science, University of Minnesota
-
-B.S. in Animal Science, Federal University of Lavras, Brazil
+Contact: ssilvaju@umn.edu
